@@ -1,3 +1,3 @@
 # ExchangeDemo
 长按交换处理
-![image]()
+![image](/ExchangeDemo/效果图.gif)
